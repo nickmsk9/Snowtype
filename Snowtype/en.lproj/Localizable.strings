@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Snowtype
+
+  Created by Никита Севальнев on 17.11.2025.
+  
+*/
+
+
+"MENU_TOGGLE_SNOW" = "Показать/скрыть снег";
+"MENU_QUIT" = "Выход";
+"MENU_AUTOSTART" = "Автозапуск";
+"MENU_CREDITS" = "О программе";
+"CREDITS_TEXT" = "Создано Никитой Севальневым в учебных целях для МТУСИ (БСТ2452)";
+"MENU_SNOW_AMOUNT" = "Количество снега";
+"MENU_SNOW_SIZE" = "Размер снежинок";
