@@ -1,8 +1,4 @@
-Вот обновлённый README с разметкой — английская версия сверху, потом русская. Ты можешь просто целиком заменить им текущий `README.md` в репозитории.
 
----
-
-````markdown
 # ❄️ Snowtype
 
 **Bring the magic of a winter snowfall to your macOS desktop.**  
@@ -42,7 +38,6 @@ At the moment Snowtype is distributed as source code. To run it, you need to bui
    ```bash
    git clone https://github.com/nickmsk9/Snowtype.git
    cd Snowtype
-````
 
 2. **Open the project in Xcode:**
 
